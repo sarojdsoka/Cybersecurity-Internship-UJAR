@@ -1,0 +1,13 @@
+# Nmap 7.95 scan initiated Wed Aug 13 17:21:26 2025 as: /usr/lib/nmap/nmap --privileged -p- --vv -oN localhost.txt localhost
+Warning: Hostname localhost resolves to 2 IPs. Using 127.0.0.1.
+Nmap scan report for localhost (127.0.0.1)
+Host is up, received localhost-response (0.0000030s latency).
+Other addresses for localhost (not scanned): ::1
+Scanned at 2025-08-13 17:21:26 IST for 1s
+Not shown: 65533 closed tcp ports (reset)
+PORT     STATE SERVICE REASON
+22/tcp   open  ssh     syn-ack ttl 64
+1716/tcp open  xmsg    syn-ack ttl 64
+
+Read data files from: /usr/share/nmap
+# Nmap done at Wed Aug 13 17:21:27 2025 -- 1 IP address (1 host up) scanned in 0.79 seconds
