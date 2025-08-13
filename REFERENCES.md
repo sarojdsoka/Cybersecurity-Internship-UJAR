@@ -1,0 +1,11 @@
+## References
+---
+
+1. [Atlas Systems – CIA Triad in Cybersecurity](https://www.atlassystems.com/blog/cia-triad-in-cybersecurity)  
+2. [Data Breaches in India – Wikipedia](https://en.wikipedia.org/wiki/Data_breaches_in_India)  
+3. [Stuxnet Case Study – Stanford University](http://large.stanford.edu/courses/2015/ph241/holloway1/)  
+4. [Largest IT Outage – TechTarget](https://www.techtarget.com/whatis/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next)  
+5. [Nmap Official Docs – Intro](https://nmap.org/book/intro.html)
+6. [TCP 3-Way Handshake – GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
+7. [Nmap NSE Documentation](https://nmap.org/book/man-nse.html)
+8. [Recorded Future – Nmap Commands](https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/nmap-commands)
