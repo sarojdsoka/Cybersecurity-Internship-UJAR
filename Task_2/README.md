@@ -1,4 +1,3 @@
-````markdown
 # 🔍 Introduction to Nmap – Cybersecurity Internship Task 2
 
 **Date:** 12 August 2025  
@@ -55,35 +54,35 @@ sudo apt-get install nmap
 
 ---
 
-## 📋 Common Nmap Commands
+## Common Nmap Commands
 
-### 1️⃣ Basic Scan
+### Basic Scan
 
 ```bash
 nmap scanme.nmap.org
 nmap scanme.nmap.org 1.1.1.1 8.8.8.8
 ```
 
-### 2️⃣ Scan Specific Ports / Ranges
+### Scan Specific Ports / Ranges
 
 ```bash
 nmap -p 80,443 localhost scanme.nmap.org
 nmap -p 1-65535 localhost
 ```
 
-### 3️⃣ Top Ports Scan
+### Top Ports Scan
 
 ```bash
 nmap --top-ports 100 scanme.nmap.org
 ```
 
-### 4️⃣ Service Detection
+###  Service Detection
 
 ```bash
 nmap -sV scanme.nmap.org
 ```
 
-### 5️⃣ TCP / UDP Scans
+### TCP / UDP Scans
 
 ```bash
 # TCP SYN Scan
@@ -98,7 +97,7 @@ nmap -sU scanme.nmap.org
 
 Other specialized scans: `-sA` (ACK), `-sF` (FIN), `-sN` (NULL), `-sX` (Xmas).
 
-### 6️⃣ CVE & Vulnerability Scanning
+### CVE & Vulnerability Scanning
 
 ```bash
 nmap --script vuln scanme.nmap.org
@@ -106,7 +105,7 @@ nmap --script vuln scanme.nmap.org
 
 You can also create custom NSE scripts in Lua.
 
-### 7️⃣ Aggressive Scan + Speed
+### Aggressive Scan + Speed
 
 ```bash
 # Default speed (T3)
@@ -116,7 +115,7 @@ nmap -A scanme.nmap.org
 nmap -A -T4 scanme.nmap.org
 ```
 
-### 8️⃣ Save Output
+### Save Output
 
 ```bash
 # Normal, XML, Script, Grepable
