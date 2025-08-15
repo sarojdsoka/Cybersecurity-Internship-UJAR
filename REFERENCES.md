@@ -9,3 +9,7 @@
 6. [TCP 3-Way Handshake – GeeksforGeeks](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
 7. [Nmap NSE Documentation](https://nmap.org/book/man-nse.html)
 8. [Recorded Future – Nmap Commands](https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/nmap-commands)
+9. [MDN Web Docs – HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+10. [PortSwigger – Host Header Attacks](https://portswigger.net/web-security/host-header)
+11. [Mozilla Observatory](https://observatory.mozilla.org/)
+12. [SecurityHeaders.com](https://securityheaders.com/)
