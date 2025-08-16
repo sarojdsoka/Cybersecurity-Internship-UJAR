@@ -1,4 +1,4 @@
-#  OWASP ZAP – Vulnerability Scanner (Cybersecurity Internship Task 4)
+#  OWASP ZAP – Vulnerability Scanner Task 4
 **Date:** 16 August 2025  
 **Internship Program:** Cybersecurity Internship – UJAR TECH  
 
@@ -31,12 +31,9 @@ ZAP works as a **proxy** between your browser and the target application, interc
 ---
 
 ##  Common Use Cases
-- **Finding XSS (Cross-Site Scripting) vulnerabilities.**  
-- **Testing SQL Injection & input validation flaws.**  
+- **Finding XSS (Cross-Site Scripting) vulnerabilities.**    
 - **Checking authentication & session management weaknesses.**  
 - **Identifying insecure HTTP headers.**  
-- **Scanning for misconfigured SSL/TLS setups.**  
-
 ---
 
 ##  Basic Workflow
