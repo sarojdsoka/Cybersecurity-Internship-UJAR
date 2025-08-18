@@ -20,3 +20,6 @@
 17. [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)  
 18. [ZAP Tutorials – YouTube](https://www.youtube.com/c/OWASPZAP)  
 19. [Mozilla Security Blog on ZAP](https://blog.mozilla.org/security/tag/zap/) 
+20. [MDN Docs – Search Engines vs Directories](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)  
+21. [Aardwolf Security – Directory Brute Forcing with DirSmash](https://aardwolfsecurity.com/directory-brute-forcing-with-dirsmash/)  
+22. [SecLists – Collection of Wordlists for Security Assessments](https://medium.com/@digitalmunition/seclists-a-collection-of-multiple-types-of-lists-used-during-security-assessments-collected-in-7a22ef5a8606)  
