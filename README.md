@@ -28,3 +28,8 @@ Date:18 August 2025
 ---
 
 Date:21 August 2025
+
+[**Dirb - Task_7**](https://github.com/sarojdsoka/Cybersecurity-Internship-UJAR/tree/main/Task_7)
+---
+
+Date:23 August 2025
