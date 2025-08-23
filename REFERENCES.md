@@ -24,3 +24,4 @@
 21. [Aardwolf Security – Directory Brute Forcing with DirSmash](https://aardwolfsecurity.com/directory-brute-forcing-with-dirsmash/)  
 22. [SecLists – Collection of Wordlists for Security Assessments](https://medium.com/@digitalmunition/seclists-a-collection-of-multiple-types-of-lists-used-during-security-assessments-collected-in-7a22ef5a8606)  
 23. [Wireshark Wiki](https://wiki.wireshark.org/CaptureFilters)
+24. [DIRB – Kali Linux Docs](https://tools.kali.org/web-applications/dirb)
