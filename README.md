@@ -43,3 +43,8 @@ Date:24 August 2025
 ---
 
 Date:24 August 2025
+
+[**Iptables - Task_10**](https://github.com/sarojdsoka/Cybersecurity-Internship-UJAR/tree/main/Task_10)
+---
+
+Date:26 August 2025
